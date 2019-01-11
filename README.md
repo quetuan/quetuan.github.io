@@ -1,6 +1,6 @@
 ## My 1st git - CANOpen
 
-You can use the [editor on GitHub](https://github.com/quetuan/yu.github.io/STM32/CANOpen) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/quetuan/yu.github.io/STM32_CANOpen) to maintain and preview the content for your website in Markdown files.
 
 ### Markdown
 
