@@ -1,6 +1,6 @@
 ## My 1st git - CANOpen
 
-[editor on GitHub](https://quetuan.github.io/yu.github.io/stm32/STM32_CANOpen)-----2019-01-11。
+[editor on GitHub](https://quetuan.github.io/yu.github.io/STM32/CANOpen)-----2019-01-11。
 
 ### Markdown
 
